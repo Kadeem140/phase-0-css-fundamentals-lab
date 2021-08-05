@@ -2,7 +2,7 @@
 
 ## Learning Goals
 
-- Link an external CSS file
+ok - Link an external CSS file
 - Write CSS rules to style HTML
 
 ## Introduction
